@@ -3,7 +3,7 @@ torchvision
 torchaudio
 scikit-learn
 matplotlib
-numpy==2.3.5
+numpy
 pillow
 tqdm
 opencv-python
